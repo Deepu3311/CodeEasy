@@ -1,8 +1,7 @@
 CSS Clip Path Maker : https://bennettfeely.com/clippy/
 
-Button Animation: https://dev.to/webdeasy/top-20-css-buttons-animations-f41
 
-CSS Buttons: https://dev.to/webdeasy/top-20-css-buttons-animations-f41
+Menu Hamburgers: https://jonsuh.com/hamburgers/
 
 Icons: https://iconscout.com/
 
@@ -10,17 +9,18 @@ CSS gradient: https://cssgradient.io/
 
 Gradient Buttons: https://gradientbuttons.colorion.co/
 
-Generator: https://webcode.tools/
+Button Animation: https://dev.to/webdeasy/top-20-css-buttons-animations-f41
 
 Grid Generator: https://cssgrid-generator.netlify.app/
 
 Box Shadow: https://getcssscan.com/css-box-shadow-examples
 
-Menu Hamburgers: https://jonsuh.com/hamburgers/
+Generator: https://webcode.tools/
 
 Neumorphism: https://neumorphism.io/#e0e0e0
+
+CSS Buttons: https://dev.to/webdeasy/top-20-css-buttons-animations-f41
 
 Glassmorphism: https://ui.glass/generator/
 
 CSS Animation: https://animista.net/
-
